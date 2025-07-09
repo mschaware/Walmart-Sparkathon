@@ -113,7 +113,7 @@ export const mockProducts: Product[] = [
 
 export const mockUser: User = {
   id: '1',
-  name: 'Sarah Johnson',
+  name: 'Mayur Chaware',
   email: 'sarah@example.com',
   role: 'customer',
   points: 2450,
